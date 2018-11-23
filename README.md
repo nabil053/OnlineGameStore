@@ -1,8 +1,8 @@
 <h3>ASP.NET Web Site Overview:</h3>
-An Online game Store and efficient easy-to-use Online platform for the sellers to sell the video games and the customers to purchase the same. Proper Interaction between the customers and the sellers through FAQ and Help Messages. Keeping Customers informed on the latest news and offer.
+An efficient easy-to-use Online platform for the sellers to sell the video games and the customers to purchase the same. Proper Interaction between the customers and the sellers through FAQ and Help Messages. Keeping Customers informed on the latest news and offer.
  </br>
  
-<h3> Platform:</h3> This websitee was designed and programmed using in Visual Studio 2017 using Asp.net .
+<h3> Platform:</h3> This website was designed and programmed in Visual Studio 2017 using Asp.net and Mysqli .
  
  <figure>
  <img src="ogs.png" height="1500" weight="700"/>
