@@ -5,7 +5,7 @@ An Online game Store and efficient easy-to-use Online platform for the sellers t
 <h3> Platform:</h3> This websitee was designed and programmed using in Visual Studio 2017 using Asp.net .
  
  <figure>
- <img src="ogs.png" height="700" weight="1550"/>
+ <img src="ogs.png" height="1500" weight="700"/>
 <figcaption>Fig. - Online Game Store.</figcaption>
 </figure>
 
