@@ -1,0 +1,26 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+/*// No media query since this is the default in Bootstrap*/
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+        .color{
+            background-color: red;
+        }
+    }
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .color{
+             background-color: green;
+        }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .color{
+            background-color: yellow;
+        }
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }

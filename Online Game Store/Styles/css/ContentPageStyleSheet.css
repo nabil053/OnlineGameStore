@@ -1,0 +1,79 @@
+﻿.customDiv {
+    margin: 20px;
+    min-height: 300px;
+    background-color: silver;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 5px;
+    text-align: left;
+    font-size: large;
+    padding: 20px;
+}
+.customSuggestionDiv {
+    
+    min-height: 300px;
+    background-color: silver;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 5px;
+    text-align: left;
+    font-size: large;
+    padding: 20px;
+}
+
+.header{
+    margin: 0px;
+    background-color: black;
+    height: 80px;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.gameImage {
+    margin: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 5px;
+    height: 500px;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
+
+.gameImageBig {
+    width: 485px;
+    height: 495px;
+}
+
+.gameImageSmall {
+    width: 260px;
+    height: 295px;
+}
+
+.footer {
+    margin: 0px;
+    background-color: black;
+    height: 100px;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+.masterCardSection {
+    min-height: 500px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: blue;
+    height: 80px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}

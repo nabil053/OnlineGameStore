@@ -1,0 +1,33 @@
+﻿.header {
+    margin: 0px;
+    background-color: black;
+    height: 80px;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.footer {
+    margin: 0px;
+    background-color: black;
+    height: 80px;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.masterCardSection {
+    min-height:600px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: blue;
+    height: 80px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
